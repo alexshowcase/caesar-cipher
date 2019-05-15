@@ -1,2 +1,2 @@
-# caesar-cipher
-Encrypts and decrypts text using a Caesar Cipher
+# Caesar Cipher
+Encrypts and decrypts using a [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
